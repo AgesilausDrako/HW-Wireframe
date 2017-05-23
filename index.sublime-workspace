@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: install ",
+		"selected_items":
+		[
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/claycrawley/code/Basic-Portfolio/index.html",
+		"/Users/claycrawley/code/HW-Wireframe/index.html",
+		"/Users/claycrawley/code/HW-Wireframe/style.css",
+		"/Users/claycrawley/code/Basic-Portfolio/assets/css/reset.css",
+		"/Users/claycrawley/code/Week_1.3/positioning/positioning.html",
+		"/Users/claycrawley/code/Week_1.3/positioning/positioning.css",
+		"/Users/claycrawley/code/Week_1.3/RelativePaths_Activity-UNSOLVED/RelativePaths_1/style.css",
+		"/Users/claycrawley/Downloads/FloatLayout_Activity-SOLVED/floats.css",
+		"/Users/claycrawley/Downloads/FloatLayout_Activity-UNSOLVED/floats.css",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/week1-day2-html-css/css/style.css",
+		"/Users/claycrawley/Downloads/bio-with-css/assets/style.css",
+		"/Users/claycrawley/Downloads/RelativePaths_Activity-UNSOLVED/RelativePaths_3/html-bio.html",
+		"/Users/claycrawley/Downloads/RelativePaths_Activity-UNSOLVED/RelativePaths_4/HTML/html-bio.html",
+		"/Users/claycrawley/Downloads/RelativePaths_Activity-UNSOLVED/RelativePaths_2/html-bio.html",
+		"/Users/claycrawley/Downloads/RelativePaths_Activity-UNSOLVED/RelativePaths_1/html-bio.html",
+		"/Users/claycrawley/code/first_day_stuff/index2.html",
+		"/Users/claycrawley/Desktop/PREWORK_CC/Module-10/index.html",
+		"/Users/claycrawley/Desktop/PREWORK_CC/Module-10/javascript.js",
+		"/Users/claycrawley/Desktop/PREWORK_CC/Module-9/index.html",
+		"/Users/claycrawley/Desktop/PREWORK_CC/Module-9/style.css",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/week1-day2-html-css/bio.html",
+		"/Users/claycrawley/Desktop/PREWORK_CC/Module-8/fanpage.html",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/bio.html",
+		"/Users/claycrawley/code/first_day_stuff/index.html",
+		"/Users/claycrawley/code/first_day_stuff/first_day.html",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/index.html",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/week1-day2-html-css/Basic-HTML-Bio.html",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/week1-day2-html-css/quick-example-internal-css.html",
+		"/Users/claycrawley/code/Week_1.2/BootCamp1/MyFirstRepo/test.html",
+		"/Users/claycrawley/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/Users/claycrawley/Downloads/Broken_and_Working_Code/WorkingCode/GrumpyCat.html",
+		"/Users/claycrawley/Downloads/Broken_and_Working_Code.zip"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
